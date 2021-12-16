@@ -1,0 +1,57 @@
+﻿<Window x:Class="complaintBox.HomePageAdmin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:complaintBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="980"
+       AllowsTransparency="True" Background="Transparent"
+       WindowStyle="None"
+       MouseDown="Window_MouseDown"
+        >
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.ColumnSpan="2" Margin="0,0,0,-0.4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="47*"/>
+                <ColumnDefinition Width="51*"/>
+            </Grid.ColumnDefinitions>
+            <Border CornerRadius="10" RenderTransformOrigin="0.497,0.604" HorizontalAlignment="Left" Width="980" Grid.ColumnSpan="2" Margin="0,0,0,0.8">
+                <Border.Background>
+                    <LinearGradientBrush>
+                        <GradientStop Color="#7be9f6" Offset="0.0"/>
+                        <GradientStop Color="#f083da" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+                <Label Name="Registration" ToolTip="Registration" Margin="-10,-28,10,-84.2">
+
+
+
+                </Label>
+
+            </Border>
+
+            <Image
+                   Source="Resources\logo.png" Margin="102,17,138,383.4" Grid.ColumnSpan="2"
+                   />
+            <StackPanel VerticalAlignment="Center" Grid.ColumnSpan="2" Margin="0,135,-0.4,135.8"/>
+            <Button  x:Name="closeButton" HorizontalAlignment="Left" Height="41" VerticalAlignment="Bottom" Width="40" BorderThickness="0" Margin="460,0,0,506.4" Click="closeButton_Click" Grid.Column="1"   >
+                <Button.Background>
+                    <ImageBrush ImageSource="Resources\close.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name="btnGetData" Content="View Complaints" HorizontalAlignment="Left" Margin="406,192,0,0" VerticalAlignment="Top" Width="109" Height="33" Click="btnGetData_Click" Grid.ColumnSpan="2"/>
+            <Button Content="Logout" Grid.Column="1" HorizontalAlignment="Left" Margin="333,17,0,0" VerticalAlignment="Top" Width="75" Click="logoutBtn"/>
+            <DataGrid Visibility="Hidden" CanUserAddRows="False" AutoGenerateColumns="True" ColumnWidth="*" Name="data_grid" HorizontalAlignment="Left" Height="221" Margin="102,275,0,0" VerticalAlignment="Top" Width="776" Grid.ColumnSpan="2"/>
+        </Grid>
+        <Label Content="ID" x:Name="id" HorizontalAlignment="Left" Margin="4,10,0,0" VerticalAlignment="Top" Width="63" Height="27" RenderTransformOrigin="0.145,-1.444" Grid.ColumnSpan="2"/>
+        <Label Content="Name" x:Name="name" HorizontalAlignment="Left" Margin="4,42,0,0" VerticalAlignment="Top" Width="63" Height="27" RenderTransformOrigin="0.145,-1.444" Grid.ColumnSpan="2"/>
+        <Label Content="Date" x:Name="date" HorizontalAlignment="Left" Margin="813,65,0,0" VerticalAlignment="Top" Width="137" Height="27" RenderTransformOrigin="0.145,-1.444" Grid.ColumnSpan="2"/>
+    </Grid>
+</Window>
+

@@ -1,0 +1,58 @@
+﻿<Window x:Class="complaintBox.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:complaintBox"
+        mc:Ignorable="d"
+        Title="Window2" Height="400
+        " Width="380"
+           AllowsTransparency="True" Background="Transparent"
+       WindowStyle="None"
+       MouseDown="Window_MouseDown">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.ColumnSpan="2" Margin="0,0,0,-0.4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="47*"/>
+                <ColumnDefinition Width="51*"/>
+            </Grid.ColumnDefinitions>
+            <Border CornerRadius="10" RenderTransformOrigin="0.497,0.604" HorizontalAlignment="Left" Width="380" Grid.ColumnSpan="2" Margin="0,0,-86.4,0.8">
+                <Border.Background>
+                    <LinearGradientBrush>
+                        <GradientStop Color="#7be9f6" Offset="0.0"/>
+                        <GradientStop Color="#f083da" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+                <Label Name="Registration" ToolTip="Registration" Margin="-10,-28,10,-84.2">
+                </Label>
+            </Border>
+            <Label x:Name="label"  FontSize="14" Content="Please select form Below:" Margin="106,197,110,209" Grid.ColumnSpan="2" RenderTransformOrigin="0.643,0.501"/>
+            <Image Source="Resources\logo.png" Margin="106,4,101,290.4" Grid.ColumnSpan="2"/>
+            <Label
+               Content="Admin Login" FontSize="15" Margin="66,119,0.4,241.4" RenderTransformOrigin="0.643,0.501"/>
+            <StackPanel VerticalAlignment="Center" Grid.ColumnSpan="2" Margin="0,135,-0.4,135.8"/>
+            <Button  x:Name="closeButton" HorizontalAlignment="Left" Height="41" VerticalAlignment="Bottom" Width="40" BorderThickness="0" Margin="147.6,0,0,359.4" Click="closeButton_Click" Grid.Column="1"   >
+                <Button.Background>
+                    <ImageBrush ImageSource="Resources\close.png"/>
+                </Button.Background>
+            </Button>
+        </Grid>
+        <Label Content="ID" HorizontalAlignment="Left" Margin="88,173,0,0" VerticalAlignment="Top" Width="27" Height="27" Grid.ColumnSpan="2"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="87,199,0,0" VerticalAlignment="Top" Width="67" Height="28" Grid.ColumnSpan="2"/>
+        <PasswordBox x:Name="passWord" Margin="160,198,120,178" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="id" Height="23" TextWrapping="Wrap" Margin="160,173,120,204" Grid.ColumnSpan="2"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="87,147,0,0" VerticalAlignment="Top" Width="45" Height="27" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="textBoxName" Height="23" TextWrapping="Wrap" Margin="160,149,120,228" Grid.ColumnSpan="2"/>
+		<Button x:Name="Login" Content="Login" Margin="172,231,130,143" Click="loginBtn" Grid.ColumnSpan="2"/>
+		<Button Content="Create Account" Margin="161,262,120,110" Click="signUpBtn" Grid.ColumnSpan="2" RenderTransformOrigin="0.088,0.641"/>
+		<Button x:Name="backKeyButton" Content="" Margin="-4,9,306,365" Click="backkey" BorderThickness="0" Grid.ColumnSpan="2">
+            <Button.Background>
+                <ImageBrush ImageSource="Resources\back_icon.png"/>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>

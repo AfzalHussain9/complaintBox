@@ -1,0 +1,81 @@
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\bin\Debug\complaintBox.exe.config
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\obj\Debug\loggedin.baml
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\obj\Debug\MainWindow.baml
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\obj\Debug\loggedin.g.cs
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\obj\Debug\MainWindow.g.cs
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\obj\Debug\App.g.cs
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\obj\Debug\complaintBox_Content.g.cs
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\obj\Debug\complaintBox_MarkupCompile.cache
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\obj\Debug\complaintBox.g.resources
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\obj\Debug\complaintBox.Properties.Resources.resources
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\obj\Debug\complaintBox.csproj.GenerateResource.Cache
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\obj\Debug\complaintBox.exe
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\obj\Debug\complaintBox.pdb
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\bin\Debug\Database1.mdf
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\bin\Debug\Database1_log.ldf
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\bin\Debug\complaintBox.exe
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\bin\Debug\complaintBox.pdb
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\obj\Debug\Window1.g.cs
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\obj\Debug\complaintBox_MarkupCompile.lref
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\obj\Debug\Window2.g.cs
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\obj\Debug\Window2.baml
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\obj\Debug\Window1.baml
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\obj\Debug\complaintBox.csprojResolveAssemblyReference.cache
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\obj\Debug\ALoggedin.g.cs
+C:\Users\Sheraz Janjua\Documents\Visual Studio 2015\Projects\complaintBoxx-master\complaintBox\obj\Debug\ALoggedin.baml
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\obj\Debug\complaintBox.csprojAssemblyReference.cache
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\obj\Debug\loggedin.baml
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\obj\Debug\MainWindow.baml
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\obj\Debug\ALoggedin.g.cs
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\obj\Debug\loggedin.g.cs
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\obj\Debug\MainWindow.g.cs
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\obj\Debug\Window2.g.cs
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\obj\Debug\Window1.g.cs
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\obj\Debug\App.g.cs
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\obj\Debug\complaintBox_Content.g.cs
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\obj\Debug\complaintBox_MarkupCompile.cache
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\obj\Debug\complaintBox_MarkupCompile.lref
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\obj\Debug\complaintBox.exe
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\obj\Debug\complaintBox.pdb
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\bin\Debug\Database1.mdf
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\bin\Debug\Database1_log.ldf
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\bin\Debug\complaintBox.exe.config
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\bin\Debug\complaintBox.exe
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\bin\Debug\complaintBox.pdb
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\obj\Debug\ALoggedin.baml
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\obj\Debug\Window2.baml
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\obj\Debug\Window1.baml
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\obj\Debug\complaintBox.g.resources
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\obj\Debug\complaintBox.Properties.Resources.resources
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\obj\Debug\complaintBox.csproj.GenerateResource.cache
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\obj\Debug\complaintBox.Properties.Resource1.resources
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\obj\Debug\signup.baml
+C:\Users\shami\Desktop\complaintBoxx-master\complaintBox\obj\Debug\signup.g.cs
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\bin\Debug\Database.mdf
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\bin\Debug\Database_log.ldf
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\bin\Debug\complaintBox.exe.config
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\bin\Debug\complaintBox.exe
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\bin\Debug\complaintBox.pdb
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\HomePageUser.baml
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\LoginUser.baml
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\signup.baml
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\HomePageAdmin.g.cs
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\HomePageUser.g.cs
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\LoginUser.g.cs
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\LoginAdmin.g.cs
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\StartingScreen.g.cs
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\signup.g.cs
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\App.g.cs
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\complaintBox_Content.g.cs
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\complaintBox_MarkupCompile.cache
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\complaintBox_MarkupCompile.lref
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\HomePageAdmin.baml
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\LoginAdmin.baml
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\StartingScreen.baml
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\complaintBox.g.resources
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\complaintBox.Properties.Resource1.resources
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\complaintBox.Properties.Resources.resources
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\complaintBox.csproj.GenerateResource.cache
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\complaintBox.csproj.CoreCompileInputs.cache
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\complaintBox.exe
+E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\complaintBox.pdb
