@@ -47,7 +47,6 @@ namespace complaintBox
             try
             {
                 SqlConnection Cn = new SqlConnection(@connection.connectionString);
-                DataTable dataTable = new DataTable();
                 Cn.Open();
                 if (Cn.State == ConnectionState.Open)
                 {
@@ -72,8 +71,7 @@ namespace complaintBox
                 MessageBox.Show(exception.Message);
             }
         }
-
-       
+        
         private void dbChanged(object sender, SelectionChangedEventArgs e)
         {
             DataGrid gd = (DataGrid) sender;

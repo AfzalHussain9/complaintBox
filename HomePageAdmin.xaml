@@ -3,7 +3,6 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:complaintBox"
         mc:Ignorable="d"
         Title="MainWindow" Height="550" Width="980"
        AllowsTransparency="True" Background="Transparent"
@@ -46,6 +45,7 @@
                 </Button.Background>
             </Button>
             <Button x:Name="btnGetData" Content="View Complaints" HorizontalAlignment="Left" Margin="406,192,0,0" VerticalAlignment="Top" Width="109" Height="33" Click="btnGetData_Click" Grid.ColumnSpan="2"/>
+
             <Button Content="Logout" Grid.Column="1" HorizontalAlignment="Left" Margin="333,17,0,0" VerticalAlignment="Top" Width="75" Click="logoutBtn"/>
             <DataGrid Visibility="Hidden" CanUserAddRows="False" AutoGenerateColumns="True" ColumnWidth="*" Name="data_grid" HorizontalAlignment="Left" Height="221" Margin="102,275,0,0" VerticalAlignment="Top" Width="776" Grid.ColumnSpan="2"/>
         </Grid>

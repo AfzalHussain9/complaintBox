@@ -38,7 +38,7 @@
             <Button Content="Button" HorizontalAlignment="Left" Height="11" Margin="66,189,0,0" VerticalAlignment="Top" Width="0"/>
 			<TextBox x:Name="id" Height="23" TextWrapping="Wrap" Margin="160,242,120,185"/>
 			<PasswordBox x:Name="passWord" Margin="160,266,120,160"/>
-            <Button x:Name="submit" Content="Submit" Margin="172,299,130,125" Click="loginClick"/>
+            <Button x:Name="submit" Content="Login" Margin="172,299,130,125" Click="loginClick"/>
             <Button  x:Name="closeButton" HorizontalAlignment="Left" Height="41" VerticalAlignment="Bottom" Width="40" BorderThickness="0" Margin="339,0,0,409" Click="closeBtn"   >
                 <Button.Background>
                     <ImageBrush ImageSource="Resources/close.png"/>

@@ -49,19 +49,9 @@ namespace complaintBox
             command.CommandType = System.Data.CommandType.StoredProcedure;
             connection.Open();
             
-            // var returnParameter = command.Parameters.Add("@ReturnVal", SqlDbType.Int);
 
             SqlDataReader reader = command.ExecuteReader();
-            
-            /*
-            if (Convert.ToInt32(returnParameter.Value) == 1)
-            {
-
-                MessageBox.Show("Database Error occurred");
-
-            }
-            */
-
+      
 
             while (reader.Read())
             {
@@ -125,7 +115,7 @@ namespace complaintBox
                 command.Parameters.AddWithValue("@user_id", this.ID);
                 command.Parameters.AddWithValue("@dep_id", Department.SelectedIndex);
                 command.Parameters.AddWithValue("@CType", complaintType.SelectedIndex);
-                command.Parameters.AddWithValue("@date", date.Content);
+                command.Parameters.AddWithValue("@date", DateTime.Now);
                 command.Parameters.AddWithValue("@description", StringFromRichTextBox(complainBox));
 
                 connection.Open();

@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\external-library"
   ],
-  "SelectedNode": "\\connection.cs",
+  "SelectedNode": "\\LoginUser.xaml",
   "PreviewInSolutionExplorer": false
 }

@@ -105,11 +105,9 @@ namespace complaintBox
 
         private void backkey(object sender, RoutedEventArgs e)
         {
-
             Window1 main = new Window1();
             main.Show();
             this.Close();
-
         }
     }
 }
