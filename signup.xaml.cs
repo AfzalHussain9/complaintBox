@@ -39,7 +39,7 @@ namespace complaintBox
             }
         }
 
-        private void Button_Click_2(object sender, RoutedEventArgs e)
+        private void signupClicked(object sender, RoutedEventArgs e)
         {
             String hash = GenerateHash(passWord.Password.ToString());
             

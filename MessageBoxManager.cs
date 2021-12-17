@@ -1,4 +1,11 @@
-﻿#pragma warning disable 0618
+﻿
+/*
+ * 
+ * External Library
+ * 
+ */
+
+#pragma warning disable 0618
 using System.Text;
 using System.Runtime.InteropServices;
 using System.Security.Permissions;

@@ -79,3 +79,32 @@ E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\
 E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\complaintBox.csproj.CoreCompileInputs.cache
 E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\complaintBox.exe
 E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\obj\Debug\complaintBox.pdb
+E:\PROJECTS\CSharp\Afzal ComplaintBox\bin\Debug\Database.mdf
+E:\PROJECTS\CSharp\Afzal ComplaintBox\bin\Debug\Database_log.ldf
+E:\PROJECTS\CSharp\Afzal ComplaintBox\obj\Debug\HomePageUser.baml
+E:\PROJECTS\CSharp\Afzal ComplaintBox\obj\Debug\LoginUser.baml
+E:\PROJECTS\CSharp\Afzal ComplaintBox\obj\Debug\signup.baml
+E:\PROJECTS\CSharp\Afzal ComplaintBox\obj\Debug\HomePageAdmin.g.cs
+E:\PROJECTS\CSharp\Afzal ComplaintBox\obj\Debug\HomePageUser.g.cs
+E:\PROJECTS\CSharp\Afzal ComplaintBox\obj\Debug\LoginUser.g.cs
+E:\PROJECTS\CSharp\Afzal ComplaintBox\obj\Debug\LoginAdmin.g.cs
+E:\PROJECTS\CSharp\Afzal ComplaintBox\obj\Debug\StartingScreen.g.cs
+E:\PROJECTS\CSharp\Afzal ComplaintBox\obj\Debug\signup.g.cs
+E:\PROJECTS\CSharp\Afzal ComplaintBox\obj\Debug\App.g.cs
+E:\PROJECTS\CSharp\Afzal ComplaintBox\obj\Debug\complaintBox_Content.g.cs
+E:\PROJECTS\CSharp\Afzal ComplaintBox\obj\Debug\complaintBox_MarkupCompile.cache
+E:\PROJECTS\CSharp\Afzal ComplaintBox\obj\Debug\complaintBox_MarkupCompile.lref
+E:\PROJECTS\CSharp\Afzal ComplaintBox\obj\Debug\HomePageAdmin.baml
+E:\PROJECTS\CSharp\Afzal ComplaintBox\obj\Debug\LoginAdmin.baml
+E:\PROJECTS\CSharp\Afzal ComplaintBox\obj\Debug\StartingScreen.baml
+E:\PROJECTS\CSharp\Afzal ComplaintBox\obj\Debug\complaintBox.g.resources
+E:\PROJECTS\CSharp\Afzal ComplaintBox\obj\Debug\complaintBox.Properties.Resource1.resources
+E:\PROJECTS\CSharp\Afzal ComplaintBox\obj\Debug\complaintBox.Properties.Resources.resources
+E:\PROJECTS\CSharp\Afzal ComplaintBox\obj\Debug\complaintBox.csproj.GenerateResource.cache
+E:\PROJECTS\CSharp\Afzal ComplaintBox\obj\Debug\complaintBox.csproj.CoreCompileInputs.cache
+E:\PROJECTS\CSharp\Afzal ComplaintBox\obj\Debug\complaintBox.exe
+E:\PROJECTS\CSharp\Afzal ComplaintBox\obj\Debug\complaintBox.pdb
+E:\PROJECTS\CSharp\Afzal ComplaintBox\bin\Debug\complaintBox.exe.config
+E:\PROJECTS\CSharp\Afzal ComplaintBox\bin\Debug\complaintBox.exe
+E:\PROJECTS\CSharp\Afzal ComplaintBox\bin\Debug\complaintBox.pdb
+E:\PROJECTS\CSharp\Afzal ComplaintBox\obj\Debug\complaintBox.csprojAssemblyReference.cache

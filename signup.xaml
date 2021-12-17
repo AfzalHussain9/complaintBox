@@ -27,7 +27,6 @@
                 </Label>
 
             </Border>
-
            
             <Button x:Name="backKey" Content="" Margin="11,21,314,403.4" BorderThickness="0" Click="backKey_Click" >
                 <Button.Background>
@@ -50,7 +49,7 @@
 
 
             </Label>
-            <Button Content="Sign up" Margin="181,299,144,124.4" Click="Button_Click_2"/>
+            <Button Content="Sign up" Margin="181,299,144,124.4" Click="signupClicked"/>
             <StackPanel VerticalAlignment="Center"/>
             <Label Content="ID" HorizontalAlignment="Left" Margin="81,232,0,0" VerticalAlignment="Top" Width="27" Height="27"/>
             <Label Content="Password" HorizontalAlignment="Left" Margin="77,255,0,0" VerticalAlignment="Top" Width="67" Height="28"/>

@@ -9,13 +9,10 @@ namespace complaintBox
 {
     class connection
     {
-        public static string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=E:\PROJECTS\CSharp\complaint\complaintBox\complaintBoxx-master\complaintBox\Database.mdf;Integrated Security=True;Connect Timeout=30";
-
+        public static string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=E:\PROJECTS\CSharp\Afzal ComplaintBox\Database.mdf;Integrated Security=True;Connect Timeout=30";
         public static void connect()
         {
             SqlConnection Cn = new SqlConnection(@connectionString);
-
         }
-
     }
 }
